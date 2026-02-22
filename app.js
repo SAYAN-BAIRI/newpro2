@@ -1,4 +1,4 @@
 # New Project 
 
-this project was created by me 
+this project was by me 
 
